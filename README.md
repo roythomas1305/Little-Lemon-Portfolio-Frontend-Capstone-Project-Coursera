@@ -4,7 +4,12 @@
 
 Please run these commands in the terminal before launching
 
-!* npm install
-!* npm init
-!* npm i react-router-dom
-!* npm install sweetalert2
+<br />
+
+## Pages
+
+- npm install
+- npm init
+- npm i react-router-dom
+- npm install sweetalert2
+  <br />
