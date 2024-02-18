@@ -4,7 +4,7 @@
 
 Please run these commands in the terminal before launching
 
-Markup : * npm install
-         * npm init
-         * npm i react-router-dom
-         * npm install sweetalert2
+!* npm install
+!* npm init
+!* npm i react-router-dom
+!* npm install sweetalert2
