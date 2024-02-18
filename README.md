@@ -6,7 +6,7 @@ Please run these commands in the terminal before launching
 
 <br />
 
-## Pages
+## Packages
 
 - npm install
 - npm init
